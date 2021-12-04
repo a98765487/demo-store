@@ -1,5 +1,4 @@
-import React, { Fragment } from "react";
-import ReactDOM from "react-dom";
+import React from "react";
 
 class Login extends React.Component {
   render() {
